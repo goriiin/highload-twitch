@@ -207,9 +207,23 @@ Twitch не предоставляет гарантии единой задер�
 | 7   | Бразилия и африканские страны                                                 | Португальский | –                                   | 156.1K / 4.5K            |
 
 
-![Pasted image 20250227234712](https://github.com/user-attachments/assets/4d2d929e-1fdc-493d-80b7-eae9393d4c8a)
+![mir-плотность](https://github.com/user-attachments/assets/4d2d929e-1fdc-493d-80b7-eae9393d4c8a)
 
-![Pasted image 20250228004354](https://github.com/user-attachments/assets/a0542fb2-f670-4100-972f-c36190cdc328)
+![mir](https://github.com/user-attachments/assets/309ba1b6-a006-44d2-824a-db11708ac77f)
+
+![asia-net](https://github.com/user-attachments/assets/278f28de-e7a7-48cc-85b7-e3bee58b6e17)
+
+![asia](https://github.com/user-attachments/assets/5699d5d5-ce9f-4fe0-8e80-a3f8d080ad25)
+
+![europe-net](https://github.com/user-attachments/assets/3b5c2afb-f97f-46c3-bbfb-b1a4dac06441)
+
+![europe](https://github.com/user-attachments/assets/047fea84-951b-4e5b-9a0f-447cc83f471b)
+
+![america-net](https://github.com/user-attachments/assets/92449627-5508-4acc-90d5-6817d0f94577)
+
+![america](https://github.com/user-attachments/assets/dc0b37cd-ee87-45c8-941b-89ce550f423e)
+
+
 
 Расположение ЦОД:
 - В США: Сан-Франциско(Северная Калифорния), Лос-Анджелес(Калифорния), Нью-Йорк, Чарльстон(Южная Каролина), Колумбус(Огайо)
