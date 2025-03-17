@@ -421,7 +421,7 @@ Twitch не предоставляет гарантии единой задер�
 
 ### Схема
 
-![image](https://github.com/user-attachments/assets/ae467ab6-49bc-44f2-a65d-290998b23c9f)
+![image](https://github.com/user-attachments/assets/a46e1802-6635-43be-bd34-ca2d23847b3f)
 
 ### Описание таблиц
 
