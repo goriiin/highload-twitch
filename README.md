@@ -437,11 +437,11 @@ Twitch не предоставляет гарантии единой задер�
 
 Для user консистентная хэш функция для распределения по шардам пользователей по user_id. Популярных пользователей по map, распределять вручную.
 
-message, sessions, history, stream  хэш функция
+message, sessions, history, stream, reaction  хэш функция
 
 ### Резервное копирование 
 
-Для catecory_avatar, user_avatar, user_banner дублирующий master-slave Hadoop
+Для category_avatar, user_avatar, user_banner дублирующий master-slave Hadoop
 
 Для viewers, users_reactions, message, sessions полусинхронная репликация master-slave Tarantool
 
