@@ -436,8 +436,7 @@ Twitch не предоставляет гарантии единой задер�
 
 ## 6. Физическая схема БД
 
-![image](https://github.com/user-attachments/assets/4b43209c-8f58-4131-903a-07c2eb4e5ba9)
-
+![image](https://github.com/user-attachments/assets/7028bbc6-74af-4347-b251-19d35d36d095)
 
 - синий: Tarantool
 - голубой: S3
