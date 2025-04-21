@@ -780,7 +780,7 @@ Twitch не предоставляет гарантии единой задер�
    
 # 10. Схема проекта
 
-![image](https://github.com/user-attachments/assets/440fef65-a79a-4421-b1ed-866809a7d430)
+![db_diagram_highload-Страница 3](https://github.com/user-attachments/assets/fe8384fd-76c2-4b8e-92c8-28bcd7829a83)
 
 ## Источники
 [^1]:  https://www.demandsage.com/twitch-users
