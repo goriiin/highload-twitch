@@ -781,7 +781,7 @@ Twitch не предоставляет гарантии единой задер�
 	- ID идемпотентности, для исключения дублирования действий пользователя
 # 10. Схема проекта
 
-![db_diagram_highload-Страница 3](https://github.com/user-attachments/assets/d0ebb0f4-0779-48b1-bf15-bc8f6930cd1c)
+![db_diagram_highload-Страница 3](https://github.com/user-attachments/assets/f2322fce-b33c-4344-9c1d-695057a7f002)
 
 ## Источники
 [^1]:  https://www.demandsage.com/twitch-users
